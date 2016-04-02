@@ -7,27 +7,21 @@ Christopher Fogo(1202890)
 Carlington Palmer(1201861)
 
 
-1. Create a folder on your computer
+1. Download Compiler folder from Github
 
-2. Go to terminal
+2. Open Eclipse and import as git repositary Compiler project
 
-3. cd to folder
+3. Configure build path. Remove all jars that are in the build path. Add all the jars that are in the Lib folder of the project.
 
-4. git clone https://jpottingerpersonal@bitbucket.org/jpottingerpersonal/apl-assignment.git
+4. Run GreetingServer.
 
-5. Open Eclipse and import as git repositary Compiler project
+5. Run DriverGUI.
 
-6. Configure build path. Remove all jars that are in the build path. Add all the jars that are in the Lib folder of the project.
+6. Select a text file from your computer. Please ensure that the selected file does not already exist in the Lyrics folder of the document.
 
-7. Run GreetingServer.
+7. Go through the various phases of the compiler in the following order: Preprocessing, Lexical, Syntax, Symantic, Intermediate Code Generation, Code Generation, Optimization. Symbol table can be ran at any phase. The Spanish conversion phase should be done after he semantic phase.
 
-8. Run DriverGUI.
-
-9. Select a text file from your computer. Please ensure that the selected file does not already exist in the Lyrics folder of the document.
-
-10. Go through the various phases of the compiler in the following order: Preprocessing, Lexical, Syntax, Symantic, Intermediate Code Generation, Code Generation, Optimization. Symbol table can be ran at any phase. The Spanish conversion phase should be done after he semantic phase.
-
-11. For the interoperabilty, please ensure that both machines are on the same network. Please get the IP address for the computer that will be operating as the server and paste in the SimpleFileClient class in the SERVER variable. This class is in the package fileTransfer Please see: http://prntscr.com/amjms9
+8. For the interoperabilty, please ensure that both machines are on the same network. Please get the IP address for the computer that will be operating as the server and paste in the SimpleFileClient class in the SERVER variable. This class is in the package fileTransfer Please see: http://prntscr.com/amjms9
 
 After that is done, the server computer should click the Interoperability Server button. 
 
