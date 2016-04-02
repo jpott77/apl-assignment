@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/com.google.common.source_1.0.0.201004262004.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/en_us.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/freetts.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jazzy-core-0.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/json-simple.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jsyn_16_7_3.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/mbrola.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/microsoft-translator-java-api-0.6.2 (2).jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jsr-113-0.5.1/jsr113.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jsr-113-0.5.1/org.jvoicexml.jsapi2.freetts.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jsr-113-0.5.1/org.jvoicexml.jsapi2.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jsr-113-0.5.1/org.jvoicexml.jsapi2.mac.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jsr-113-0.5.1/org.jvoicexml.jsapi2.sapi.jar"/>
+	<classpathentry kind="lib" path="/Users/qualityworks/Desktop/APL Bitbucket/apl-assignment/Compiler/Lib/jsr-113-0.5.1/org.jvoicexml.jsapi2.sphinx4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
