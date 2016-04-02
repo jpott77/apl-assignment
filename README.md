@@ -2,8 +2,11 @@
 Team:
 
 Julia Pottinger (1200639)
+
 Tamoya Beckford(1203170)
+
 Christopher Fogo(1202890)
+
 Carlington Palmer(1201861)
 
 
